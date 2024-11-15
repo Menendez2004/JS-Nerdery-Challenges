@@ -104,7 +104,7 @@ document.addEventListener('keydown', (event) => {
     } else if (key === '-') {
         handleOperator('-');
     } else if (key === '*') {
-        handleOperator('X');
+        handleOperator('*');
     } else if (key === '/') {
         handleOperator('/');
     } else if (key === 'Enter') {
